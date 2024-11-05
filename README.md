@@ -1,3 +1,3 @@
 # Library-DB
-Class Project 
+Class Project \n
 Created a Library Database
